@@ -1,7 +1,3 @@
----
-This will be my cybersecurity blog where I will be documenting my methodology
-based on my experience on Hack The Box, Proving Grounds, and the PWK labs.
----
 <img src="https://c.tenor.com/RvI_dsjz5Y8AAAAd/fullmetal-alchemist-roy-mustang.gif" width="1500" height="800" />
 
 # 😃 Welcome
