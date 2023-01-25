@@ -13,6 +13,6 @@ My name is Fabian. I am currently a freshman attending college, I started my pen
 <figure><img src=".gitbook/assets/2022-09-08_13-56.png" alt=""><figcaption></figcaption></figure>
 <figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FyTPWZkKJbJfX8uHiRzmn%2Fuploads%2FGsSOvD2Er0fvmt0uPnuH%2F2023-01-25%2010_32_56-Red%20Team%20Operator%20-%20Canvas%20Badges.png?alt=media&token=aaad2fff-bb74-4e7f-8b62-2ec62bb3b229" alt=""><figcaption></figcaption></figure>
 
-I am now pursuing the CRTO, then I will pursue the OSEP.
+I am now pursuing the OSEP.
 
 I hope some of you get value out of this blog and the write ups.&#x20;
