@@ -3,7 +3,7 @@ description: >-
   This will be my cybersecurity blog where I will be documenting my methodology
   based on my experience on Hack The Box, Proving Grounds, and the PWK labs.
 ---
-![](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![](https://c.tenor.com/RvI_dsjz5Y8AAAAd/fullmetal-alchemist-roy-mustang.gif)
 
 # 😃 Welcome
 
