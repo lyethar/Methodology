@@ -2,7 +2,7 @@
 description: >-
   This will be my cybersecurity blog where I will be documenting my methodology
   based on my experience on Hack The Box, Proving Grounds, and the PWK labs.
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 ---
 
 # 😃 Welcome
